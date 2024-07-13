@@ -50,7 +50,7 @@ and libraries.
 ---
 <br>
     <h1 align="center">
-     Quiz
+     🏆 Quiz 🏆
     </h1>
 <br/>
 
