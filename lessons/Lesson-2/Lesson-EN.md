@@ -11,10 +11,14 @@
 - Run the downloaded file.
 - Follow the instructions in the installation wizard.
 
+---
+
 ### Installing JDK on MacOS:
 
 - Run the downloaded file.
 - Follow the instructions in the installation wizard.
+
+---
 
 ### Installing JDK on Linux:
 
