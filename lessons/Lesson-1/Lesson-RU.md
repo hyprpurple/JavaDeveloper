@@ -57,7 +57,7 @@ Java-программ. JRE используется для запуска уже
 - Oracle
 
 <details>
-    <p><strong>Ответ: </strong>Oracle</p>
+    <br/><p><strong>Ответ: </strong>Oracle</p><br/>
 </details>
 
 **Вопрос 2: Каким типом языка является Java?**
@@ -67,7 +67,7 @@ Java-программ. JRE используется для запуска уже
 - Скриптовый
 
 <details>
-    <p><strong>Ответ: </strong>Oracle</p>
+    <br/><p><strong>Ответ: </strong>Oracle</p><br/>
 </details>
 
 **Вопрос 3: Как расшифровывается слово JAVA?**
@@ -76,7 +76,7 @@ Java-программ. JRE используется для запуска уже
 - Just Another Virtual Analyzer (Просто ещё один виртуальный анализатор)
 
 <details>
-    <p><strong>Ответ: </strong>Не расшифровывается</p>
+    <br/><p><strong>Ответ: </strong>Не расшифровывается</p><br/>
 </details>
 
 **Вопрос 4: Когда была выпущена первая стабильная версия языка программирования?**
@@ -85,7 +85,7 @@ Java-программ. JRE используется для запуска уже
 - 1990
 
 <details>
-    <p><strong>Ответ: </strong>1995</p>
+    <br/><p><strong>Ответ: </strong>1995</p><br/>
 </details>
 
 **Вопрос 5: Является ли Java платформенно-зависимым языком?**
@@ -93,7 +93,7 @@ Java-программ. JRE используется для запуска уже
 - Нет
 
 <details>
-    <p><strong>Ответ: </strong>Нет</p>
+    <br/><p><strong>Ответ: </strong>Нет</p><br/>
 </details>
 
 **Вопрос 6: Как расшифровывается аббревиатура JVM?**
@@ -103,5 +103,5 @@ Java-программ. JRE используется для запуска уже
 - Java Virtual Memory (Виртуальная память Java)
 
 <details>
-    <p><strong>Ответ: </strong>Java Virtual Machine</p>
+    <br/><p><strong>Ответ: </strong>Java Virtual Machine</p><br/>
 </details>
