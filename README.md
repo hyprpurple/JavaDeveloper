@@ -6,6 +6,8 @@
     </h1>
 <br/>
 
+---
+
 ### ⚠️️ Disclaimer
 
 > Welcome to my GitHub repository dedicated to learning Java! This is my personal journey to becoming a
