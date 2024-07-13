@@ -5,6 +5,7 @@
 **Java** — Java is a high-level, object-oriented programming language developed by Sun Microsystems
 (now owned by Oracle) and released in 1995. The main goal of Java's creation was to ensure platform independence of
 programs, meaning that programs written in Java can run on any device with a Java Virtual Machine (JVM).
+
 ---
 
 ### Advantages of the Language
