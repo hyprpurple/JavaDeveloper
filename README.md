@@ -11,8 +11,8 @@
 ### ⚠️️ Disclaimer
 
 > Welcome to my GitHub repository dedicated to learning Java! This is my personal journey to becoming a
-> programmer from scratch. In this repository, you will find information in Russian, English, and Romanian
-> languages. The theoretical content is presented in text format, providing brief explanations of various 
+> programmer from scratch. In this repository, you will find information in Russian and English languages.
+> The theoretical content is presented in text format, providing brief explanations of various 
 > principles and includes practical assignments.
 
 ---
