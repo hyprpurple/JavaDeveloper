@@ -38,10 +38,10 @@ from scratch.
 ### Main Components
 
 **Java Virtual Machine (JVM)** — The JVM is a virtual machine that executes Java bytecode. The JVM provides platform
-independence and security of program execution, as well as memory management and exception handling.\
+independence and security of program execution, as well as memory management and exception handling.
 
 **Java Runtime Environment (JRE)** — The JRE includes the JVM and the standard class libraries necessary for running
-Java programs. The JRE is used to run compiled applications.\
+Java programs. The JRE is used to run compiled applications.
 
 **Java Development Kit (JDK)** — The JDK is a developer kit that includes all the tools needed for developing,
 compiling, and debugging Java programs. It includes the javac compiler, the jdb debugger, as well as various utilities
