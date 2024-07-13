@@ -23,7 +23,6 @@
 - `Java Programming`
 - `Features of the Java`
 - `Java Development Kit (JDK)`
-- `Basic Syntax`
 
 #### **Module 2. Java OOP. Classes, Objects, Data and Methods**
 - `Managing Multiple Items`
