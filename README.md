@@ -63,6 +63,6 @@
 
 ### 📚 Additional resources & Docs
 
-- [Head First Java (2nd edition)](https://drive.google.com/file/d/1sWJqaCOao5muW00aL-Lx1Ea84n2YokZc/view?usp=sharing)
-- [Head First Java (2nd edition)](https://drive.google.com/file/d/1SykXlTHl74MQLjV3OOzaLsb3RsQ2vufH/view?usp=sharing)
+- [Head First Java (2nd edition) RU](https://drive.google.com/file/d/1sWJqaCOao5muW00aL-Lx1Ea84n2YokZc/view?usp=sharing)
+- [Head First Java (2nd edition) EN](https://drive.google.com/file/d/1SykXlTHl74MQLjV3OOzaLsb3RsQ2vufH/view?usp=sharing)
 - [SpringFramework - Documentation](https://docs.spring.io/spring-framework/reference/)
