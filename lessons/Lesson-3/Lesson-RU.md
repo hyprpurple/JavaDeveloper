@@ -256,22 +256,18 @@ public class Main {
 </details>
 
 **Вопрос 3: Точка входа в любую программу Java осуществляется в методе?**
-- ``Main``
-- ``main``
-- ``start``
+- `Main`
+- `main`
+- `start`
 
 <details>
     <br/><p><strong>Ответ: </strong><code>main</code></p><br/>
 </details>
 
 **Вопрос 4: Правилное обьясление метода `main`:**
-- ```public final void main(String[] args) { ... }```
-
- 
-- ```public static void main(String args) { ... }```
-
-
-- ```public static void main(String[] args) { ... }```
+- ``public final void main(String[] args) { ... }``
+- ``public static void main(String args) { ... }``
+- ``public static void main(String[] args) { ... }``
 
 <details>
     <br/><p><strong>Ответ: </strong><code>public static void main(String[] args) { ... }</code></p><br/>
