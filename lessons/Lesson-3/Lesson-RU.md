@@ -265,9 +265,9 @@ public class Main {
 </details>
 
 **Вопрос 4: Правилное обьясление метода `main`:**
-- ``public final void main(String[] args) { ... }``
-- ``public static void main(String args) { ... }``
-- ``public static void main(String[] args) { ... }``
+- `public final void main(String[] args) { ... }`
+- `public static void main(String args) { ... }`
+- `public static void main(String[] args) { ... }`
 
 <details>
     <br/><p><strong>Ответ: </strong><code>public static void main(String[] args) { ... }</code></p><br/>
