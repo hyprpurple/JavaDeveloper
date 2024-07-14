@@ -28,7 +28,7 @@
     tar -xzf jdk-VERSION-linux-x64.tar.gz
     ```
 - Move the unpacked JDK to the desired location, for example, `/usr/lib/jvm/`:
-- 
+  
     ```bash
     sudo mkdir -p /usr/lib/jvm
     ```
