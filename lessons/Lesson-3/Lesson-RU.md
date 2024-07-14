@@ -120,7 +120,7 @@ import javadeveloper.lessons;
 ```java
 public class Main {
     public static void main(String[] args) {
-        // Display "Hello world!" to console
+        // Вывод "Hello world!" в консоль
         System.out.println("Hello world!");
     }
 }
