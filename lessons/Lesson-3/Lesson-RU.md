@@ -256,12 +256,12 @@ public class Main {
 </details>
 
 **Вопрос 3: Точка входа в любую программу Java осуществляется в методе?**
-- Main
-- main
-- start
+- ``Main``
+- ``main``
+- ``start``
 
 <details>
-    <br/><p><strong>Ответ: </strong>main</p><br/>
+    <br/><p><strong>Ответ: </strong><code>main</code></p><br/>
 </details>
 
 **Вопрос 4: Правилное обьясление метода `main`:**
