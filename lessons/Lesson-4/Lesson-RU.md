@@ -49,13 +49,13 @@ public enum FuelType {
 public class FuelStation {
     private FuelType fuelType;
 
-  public FuelStation(FuelType fuelType) {
-    this.fuelType = fuelType;
-  }
+    public FuelStation(FuelType fuelType) {
+      this.fuelType = fuelType;
+    }
   
-  public void displayFuelType() {
-    System.out.println("Тип топлива: " + fuelType);
-  }
+    public void displayFuelType() {
+      System.out.println("Тип топлива: " + fuelType);
+    }
 }
 ```
 
