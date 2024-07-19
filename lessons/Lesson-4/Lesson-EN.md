@@ -13,7 +13,7 @@
 
 ### 📜 Enumerations in Java
 
-**Enumerations (enum)** are data types that allow programmers to define a predefined set of constant values. They offer an elegant and safe solution for limiting the values that a variable can take, eliminating the need for manual checks and reducing the risk of errors.
+**Enumerations (enum)** — are data types that allow programmers to define a predefined set of constant values. They offer an elegant and safe solution for limiting the values that a variable can take, eliminating the need for manual checks and reducing the risk of errors.
 
 Enumerations are useful for representing logical groups of values, such as days of the week, months of the year, or fuel types.
 
