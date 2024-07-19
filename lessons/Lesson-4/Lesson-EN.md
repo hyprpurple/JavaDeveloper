@@ -74,6 +74,8 @@ In Java, there are two types of data: primitive and reference (objects). In most
 
 However, there are situations where it is important for a primitive value to be treated as an object. For this purpose, Java provides a set of classes called Wrapper classes, which are containers for primitive values. Thus, for each primitive data type in Java, there is a corresponding Wrapper class:
 
+<br/>
+
 | Primitive <br/> Data Type | Reference <br/> Data Type | Example Usage          |
 |---------------------------|----------------------------|------------------------|
 | byte                      | Byte                       | `new Byte((byte) 1)`   |
